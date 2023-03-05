@@ -33,7 +33,7 @@ This project was built using the following technologies:
 ## Screenshots
 
 ![App Screenshot](chat-app.png)
-![App Screenshot](chat-app(2).pngpng)
+![App Screenshot](chat-app(2).png)
 
 ## 🚀 About Me
 Mohamed Khaled is a skilled front-end developer specializing in React JS and is passionate about creating responsive and dynamic user interfaces. With a strong background in web development and a wealth of experience working on a range of projects, I bring a proven track record of delivering high-quality work and exceeding client expectations.
